@@ -1,0 +1,49 @@
+Israel Showell
+2-7-24
+Project:
+Facial Recognition
+
+
+How to use this program as of Version - 1.0.0:
+
+Create a virtural env, then while in your virtural env,
+Run requirements.txt first in the command line!
+
+
+To Train:
+After entering your virtural env, go to the directory where detector.py is,
+add the pictures you want to train with in the "Training" folder,
+then run the following command in the command prompt:
+
+python detector.py --train -m="hog"
+
+This may take a few minutes!
+
+Your pictures will be encoded and sent into the "Output" folder, titled as "encodings.pkl"
+This will be used to validate and test images. 
+
+Note:
+Anytime you add or remove pictures, run this command!
+
+
+To Validate:
+After entering your virtural env, go to the directory where detector.py is,
+add the pictures you want to validate with in the "Validation" folder,
+then run the following command in the command prompt:
+
+python detector.py --validate
+
+Note:
+This will open each image in there and will take some time!
+
+To Test:
+After entering your virtural env, go to the directory where detector.py is,
+find the path to picture you want to test,
+then run the following command in the command prompt:
+
+python detector.py --test -f picture.jpg
+
+Note: 
+Make sure its a jpg file and that the file is where the path points to!
+ 
+
