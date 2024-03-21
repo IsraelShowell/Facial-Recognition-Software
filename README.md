@@ -12,17 +12,18 @@ The unknown.jpg is an example image that can be used immedatily, it is not inclu
 # Version History:
 # Version-0.5.0: (2-6-24)
 
-Made folders Output, Validation, and Training
+- Made the following folders; 
 <br>
-Downloaded need Python libaries for the program
+- Output, Validation, and Training
+<br>
+- Downloaded need Python libaries for the program
 
 # Version-1.0.0: (2-7-24)
-Completed the project.
+- Completed the project.
 <br>
-The Facial-Recognition-Software can be trained on data,
-validate the data, and then be tested to find new faces and label them.
+
+# Current Features as of V-1.00:
+- The Facial-Recognition-Software can be trained on data, validate the data, and then be tested to find new faces and label them.
 
 # Future Features to Implement:
-- Implement real-time facial recognition into the software
-
-- 
+- Implement real-time facial recognition into the software 
