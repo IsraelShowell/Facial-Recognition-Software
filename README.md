@@ -11,10 +11,7 @@ The unknown.jpg is an example image that can be used immedatily, it is not inclu
 
 # Version History:
 # Version-0.5.0: (2-6-24)
-
-- Made the following folders; 
-<br>
-- Output, Validation, and Training
+- Made the following folders; Output, Validation, and Training
 <br>
 - Downloaded need Python libaries for the program
 
