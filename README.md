@@ -1,5 +1,3 @@
-# Facial-Recognition-Software
-
 # Israel Showell
 # 2-6-7-24
 # Project: Facial Recognition Project
