@@ -8,14 +8,14 @@ This is a Python Script I made that allows a user to train, validate, and fed a 
 The unknown.jpg is an example image that can be used immedatily, it is not included in the release as of V-1.0.0
 
 # Version History:
-Version-0.5.0:
-2-6-24:
+Version-0.5.0: <br>
+2-6-24: <br>
 Made folders Output, Validation, and Training
 <br>
 Downloaded need Python libaries for the program
 
-Version-1.0.0:
-2-7-24
+Version-1.0.0: <br>
+2-7-24: <br>
 Completed the project.
 <br>
 The Facial-Recognition-Software can be trained on data,
