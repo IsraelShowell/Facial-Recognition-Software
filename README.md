@@ -15,7 +15,7 @@ The unknown.jpg is an example image that can be used immedatily, it is not inclu
 - Downloaded need Python libaries for the program
 
 # Version-1.0.0: (2-7-24)
-- Completed the project.
+- Completed the project by finishing the logic portion of the program
 <br>
 
 # Current Features as of V-1.00:
