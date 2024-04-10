@@ -9,6 +9,11 @@ This is a Python Script I made that allows a user to train, validate, and fed a 
 <br>
 The unknown.jpg is an example image that can be used immedatily, it is not included in the release as of V-1.0.0
 
+# Python Concepts Used:
+- File Pathing/Management
+- Python Libraries
+- Pickling/Serializing
+
 # Version History:
 # Version-0.5.0: (2-6-24)
 - Made the following folders; Output, Validation, and Training
