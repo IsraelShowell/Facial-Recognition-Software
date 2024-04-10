@@ -2,7 +2,7 @@
 # Start Date: 2-6-24
 # End Date: 2-7-24
 # Project: Facial Recognition Project
-# Version-1.0.0
+# Version: 1.0.0
 
 # Description: 
 This is a Python Script I made that allows a user to train, validate, and fed a facial recognition model on a database of their own choosing!
